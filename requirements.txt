@@ -1,0 +1,14 @@
+torch==1.9.0+cu102
+torchvision
+padasip
+
+tqdm
+wandb
+pickle
+matplotlib
+tabulate
+
+scipy
+numpy
+statsmodels
+sklearn
